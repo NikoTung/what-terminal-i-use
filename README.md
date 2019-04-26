@@ -1,6 +1,8 @@
 # what-terminal-i-use
 The terminal I use
 
+<img src="Screen-shot.png" width="500">
+
 * I use [iTerm2](https://www.iterm2.com/) instead of the terminal Mac app come with macOS
 * I use [oh-my-zshell](https://github.com/robbyrussell/oh-my-zsh)
 * I use the Solarized Dark for the terminal colors
